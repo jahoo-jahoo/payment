@@ -15,8 +15,9 @@ Online transfer කරනවානම් අනිවාර්යයෙන්ම
 කරන අය ඒ slipt එක. ඉහත අංකයට whatsapp 
 send කරන්න 
 
-මෙම විස්තාර bank slipt එක සමග එවන්න 
-*ඔබගේ email address එක .
+මෙම විස්තාර bank slipt එක සමග එවන්න<br> 
+*ඔබගේ email address එක .<br>
+*මතක email address නැතහොත් new email address එකක් use කරන්න<br>
 
 මුදල් බැර කිරිමේදී මතක ඇතිව bank slipt එක  
 ලබාගන්න. 
